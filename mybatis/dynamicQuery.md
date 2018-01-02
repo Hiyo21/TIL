@@ -1,1 +1,1 @@
-* <sql>, <include> : �N�G���[���ė��p�ł���B�ė��p�������N�G���[�i�������̓N�G���[�̈ꕔ�j��<sql>�^�O�ň͂ށB��Ŏg����������<include>�ŌĂэ��ށB
+* \<sql\>, \<include\> : クエリーを再利用できる。再利用したいクエリー（もしくはクエリーの一部）を\<sql\>タグで囲む。後で使いたい時は\<include\>で呼び込む。
