@@ -163,3 +163,39 @@ It's all practice.
 check out https://www.mobs-lab.org 
 
 
+---------------------------------------------------
+
+4. ヤフオクのextreme programmingについて
+
+- Pivotal Labs
+- XP
+- live coding session
+
+
+Lean XP
+- lean : on-demand. focus on delivering value
+- xp : how to go agile?
+
+XP Practices
+1. what matters to customers comes first. 
+2. pair programming
+3. TDD
+
+--------------------------------
+
+5. ヤフーのNode.js
+
+Node.js - middleware?
+serverside の　js
+V8上で構築されている。。
+Serversideで・・・
+
+特徴
+- Non-blocking I/O : 並行してI/O処理ができる。multithreaded I/O
+- event loop : 全部イベントとして登録する。イベントを感知して、処理を行う。
+
+- 大量のreqestを効率よく処理できるが得意
+
+- Node.js -> Single-threaded. CPU-heavyな作業と機械学習は使わない。
+
+
